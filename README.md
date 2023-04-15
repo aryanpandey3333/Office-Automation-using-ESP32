@@ -1,2 +1,2 @@
 # Office-Automation-using-ESP32
-This project involves integrating the ESP32 microcontroller with various sensors and actuators to automate routine office tasks. This project demonstrates the potential of IoT technology in improving workplace efficiency and productivity.
+Office automation using ESP32 is a project that involves integrating the ESP32 microcontroller with various sensors and actuators to automate routine office tasks, such as controlling lighting, temperature, and security systems. The ESP32 can be programmed to connect to Wi-Fi networks and communicate with other devices, allowing for remote control and monitoring of office systems. This project demonstrates the potential of IoT technology in improving workplace efficiency and productivity.
